@@ -227,13 +227,75 @@ class Part{
 //
 //}
 
-class ParityCheck{
-    public static void main(String[] args){
-        Scanner scan = new Scanner(System.in);
-        System.out.println("输入一个整数：");
-        Long number = scan.nextLong();
-        String check = (number%2==0)?"这个数为偶数":"这个数为奇数";
-        System.out.println(check);
+//class ParityCheck{
+//    public static void main(String[] args){
+//        Scanner scan = new Scanner(System.in);
+//        System.out.println("输入一个整数：");
+//        Long number = scan.nextLong();
+//        String check = (number%2==0)?"这个数为偶数":"这个数为奇数";
+//        System.out.println(check);
+//
+//    }
+//}
 
+//自动类型转换
+
+//class AutoTypeExchange{
+//    public static void main(String[] args){
+//        float number1 = 45f;
+//        int number2 = 152;
+//        System.out.println(number1+number2);
+//    }
+//}
+
+class Cover{
+    public static void main(String[] args){
+        byte mybyte = 127;
+        int myint =150;
+        float myfloat = 452.12f;
+        char mychar = 10;
+        double mydouble = 45.46546;
+        System.out.println("127与452相加的和是："+(mybyte+myfloat));
+        System.out.println("127与150相乘的积是："+mybyte*myint);
+        System.out.println("127被10除的商是："+mybyte/mychar);
+        System.out.println("45.465465和10相加的和是："+(mydouble+mychar));
+    }
+}
+
+//强制类型转换
+//boolean型不能转换为其他数据类型
+
+class Cover1{
+    public static void main(String[] args){
+        int a = (int)45.23;
+        long y =(long)456.6F;
+        int b=(int)'d';
+        System.out.println(a);
+        System.out.println(y);
+        System.out.println(b);
+
+    }
+}
+
+class TypeConvertion{
+    public static void main(String[] args){
+        int intNum = 4;
+        float floatNum = 9.5F;
+
+        floatNum/=intNum;
+        System.out.println("9.5除以4的商是："+floatNum);
+
+        double doubleNum1 = 12.345;
+        double doubleNum2 = 15.322;
+        int doubleNum3 = (int)(doubleNum1)+(int)doubleNum2;
+        System.out.println("强制类型转换"+doubleNum3);
+
+        char charNum = 'c';
+        int intNum1 = (int)charNum;
+        System.out.println("char转int:"+intNum1);
+
+        int intNum3 = 37;
+        double doubleNum4 = (double)intNum/3;
+        System.out.println("int类型转换为double类型："+doubleNum4);
     }
 }
