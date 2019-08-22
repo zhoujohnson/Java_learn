@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d5102ec-7273-4cea-a8a2-fea1963d5611" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Example1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java_code/.idea/description.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../java_code/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../java_code/.idea/modules.xml" beforeDir="false" />
@@ -26,8 +23,12 @@
       <change beforePath="$PROJECT_DIR$/../java_code/src/com/company/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../java_code/src/com/company/Main1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_project_code/com/company/Example1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java_project_code/com/company/ParityCheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_project_code/com/company/TwoCompare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_project_code/com/company/Volume.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Example1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/NineNine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/NineNine.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,30 +44,31 @@
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="1722" />
+          <entry key="java" value="3827" />
           <entry key="txt" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1722" />
+          <entry key="JAVA" value="3827" />
           <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="2" />
+          <entry key="java" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="3" />
         </counts>
       </usages-collector>
     </session>
@@ -76,7 +78,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="509">
+            <state relative-caret-position="-1575">
               <caret line="209" column="22" selection-start-line="209" selection-start-column="22" selection-end-line="209" selection-end-column="22" />
             </state>
           </provider>
@@ -85,8 +87,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Example1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+            <state relative-caret-position="412">
+              <caret line="280" lean-forward="true" selection-start-line="280" selection-end-line="280" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/NineNine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -119,6 +130,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/company/Main1.java" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/NineNine.java" />
         <option value="$PROJECT_DIR$/src/com/company/Example1.java" />
       </list>
     </option>
@@ -130,10 +142,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="611" />
-    <option name="y" value="72" />
-    <option name="width" value="1222" />
-    <option name="height" value="893" />
+    <option name="x" value="677" />
+    <option name="width" value="1223" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -155,7 +166,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -174,17 +184,25 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java_project_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_project_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="Example1.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566345782364" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566495956765" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
@@ -200,9 +218,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TwoCompare">
-    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Example1" />
+  <component name="RunManager" selected="Application.classwork">
+    <configuration name="AddNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.AddNum" />
       <module name="java_project_code" />
       <extension name="coverage">
         <pattern>
@@ -214,8 +232,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveMultiply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.MoveMultiply" />
+    <configuration name="AddNum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.AddNum2" />
       <module name="java_project_code" />
       <extension name="coverage">
         <pattern>
@@ -227,8 +245,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.TwoCompare" />
+    <configuration name="NineNine (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NineNine" />
+      <module name="java_project_code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NineNine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.NineNine" />
       <module name="java_project_code" />
       <extension name="coverage">
         <pattern>
@@ -240,21 +265,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypeConvertion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.TypeConvertion" />
-      <module name="java_project_code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Volume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Volume" />
+    <configuration name="classwork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.classwork" />
       <module name="java_project_code" />
       <extension name="coverage">
         <pattern>
@@ -267,19 +279,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TypeConvertion" />
-      <item itemvalue="Application.Example1" />
-      <item itemvalue="Application.Volume" />
-      <item itemvalue="Application.MoveMultiply" />
-      <item itemvalue="Application.TwoCompare" />
+      <item itemvalue="Application.NineNine" />
+      <item itemvalue="Application.NineNine (1)" />
+      <item itemvalue="Application.AddNum" />
+      <item itemvalue="Application.AddNum2" />
+      <item itemvalue="Application.classwork" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TwoCompare" />
-        <item itemvalue="Application.MoveMultiply" />
-        <item itemvalue="Application.Volume" />
-        <item itemvalue="Application.Example1" />
-        <item itemvalue="Application.TypeConvertion" />
+        <item itemvalue="Application.classwork" />
+        <item itemvalue="Application.AddNum2" />
+        <item itemvalue="Application.AddNum" />
+        <item itemvalue="Application.NineNine (1)" />
+        <item itemvalue="Application.NineNine" />
       </list>
     </recent_temporary>
   </component>
@@ -295,16 +307,18 @@
       <updated>1566240568014</updated>
       <workItem from="1566240569213" duration="261000" />
       <workItem from="1566310332725" duration="5463000" />
+      <workItem from="1566397554270" duration="15217000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5724000" />
+    <option name="totallyTimeSpent" value="20941000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="489" y="58" width="977" height="714" extended-state="0" />
+    <frame x="542" y="0" width="978" height="830" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22959739" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2347826" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -313,7 +327,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2616179" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31707317" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -322,7 +336,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32855093" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -348,15 +362,22 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/Main1.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
+        <state relative-caret-position="-1575">
           <caret line="209" column="22" selection-start-line="209" selection-start-column="22" selection-end-line="209" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/NineNine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Example1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        <state relative-caret-position="412">
+          <caret line="280" lean-forward="true" selection-start-line="280" selection-end-line="280" />
         </state>
       </provider>
     </entry>
