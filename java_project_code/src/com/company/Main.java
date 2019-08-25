@@ -48,12 +48,12 @@ import java.util.Scanner;
 
 //布尔类型（boolean)
 
-class MyBoolean{
-    public static void main(String[] args){
-        boolean b1=true,b2=false,b3;
-        System.out.println("做布尔运算"+b1);
-    }
-}
+//class MyBoolean{
+//    public static void main(String[] args){
+//        boolean b1=true,b2=false,b3;
+//        System.out.println("做布尔运算"+b1);
+//    }
+//}
 
 //变量与常量
 //定义变量
@@ -69,18 +69,18 @@ class MyBoolean{
 
 
 //例：
-class Part{
-    static final double PI=3.14;
-    static int age=23;
-    public static void main(String[] args){
-        final int number;
-        number=1235;
-        age =22;
-        System.out.println("变量PI值为"+PI);
-        System.out.println("赋值后number的值为："+number);
-        System.out.println("int型变量age的值为："+age);
-    }
-}
+//class Part{
+//    static final double PI=3.14;
+//    static int age=23;
+//    public static void main(String[] args){
+//        final int number;
+//        number=1235;
+//        age =22;
+//        System.out.println("变量PI值为"+PI);
+//        System.out.println("赋值后number的值为："+number);
+//        System.out.println("int型变量age的值为："+age);
+//    }
+//}
 
 // 1.变量分为“成员变量”和“局部变量”
 // 成员变量又分为静态变量和实例变量，静态变量的有效范围可以跨类，除了能定义
@@ -248,54 +248,75 @@ class Part{
 //    }
 //}
 
-class Cover{
-    public static void main(String[] args){
-        byte mybyte = 127;
-        int myint =150;
-        float myfloat = 452.12f;
-        char mychar = 10;
-        double mydouble = 45.46546;
-        System.out.println("127与452相加的和是："+(mybyte+myfloat));
-        System.out.println("127与150相乘的积是："+mybyte*myint);
-        System.out.println("127被10除的商是："+mybyte/mychar);
-        System.out.println("45.465465和10相加的和是："+(mydouble+mychar));
-    }
-}
+//class Cover{
+//    public static void main(String[] args){
+//        byte mybyte = 127;
+//        int myint =150;
+//        float myfloat = 452.12f;
+//        char mychar = 10;
+//        double mydouble = 45.46546;
+//        System.out.println("127与452相加的和是："+(mybyte+myfloat));
+//        System.out.println("127与150相乘的积是："+mybyte*myint);
+//        System.out.println("127被10除的商是："+mybyte/mychar);
+//        System.out.println("45.465465和10相加的和是："+(mydouble+mychar));
+//    }
+//}
 
 //强制类型转换
 //boolean型不能转换为其他数据类型
 
-class Cover1{
+//class Cover1{
+//    public static void main(String[] args){
+//        int a = (int)45.23;
+//        long y =(long)456.6F;
+//        int b=(int)'d';
+//        System.out.println(a);
+//        System.out.println(y);
+//        System.out.println(b);
+//
+//    }
+//}
+//
+//class TypeConvertion{
+//    public static void main(String[] args){
+//        int intNum = 4;
+//        float floatNum = 9.5F;
+//
+//        floatNum/=intNum;
+//        System.out.println("9.5除以4的商是："+floatNum);
+//
+//        double doubleNum1 = 12.345;
+//        double doubleNum2 = 15.322;
+//        int doubleNum3 = (int)(doubleNum1)+(int)doubleNum2;
+//        System.out.println("强制类型转换"+doubleNum3);
+//
+//        char charNum = 'c';
+//        int intNum1 = (int)charNum;
+//        System.out.println("char转int:"+intNum1);
+//
+//        int intNum3 = 37;
+//        double doubleNum4 = (double)intNum/3;
+//        System.out.println("int类型转换为double类型："+doubleNum4);
+//    }
+//}
+
+class Xiagao{
     public static void main(String[] args){
-        int a = (int)45.23;
-        long y =(long)456.6F;
-        int b=(int)'d';
-        System.out.println(a);
-        System.out.println(y);
-        System.out.println(b);
+        int[] s = new int[]{1,3,5,7,9,11,13,15,17,19};
+        int sum=0;
+        for(int i=0;i<10;i++) {
+            System.out.print(s[i]);
+            sum=sum+s[i];
+            if(i==9){
+                System.out.print(" =");
+            }
+            else{
+
+                System.out.print(" + ");
+            }
+        }
+        System.out.print(sum);
 
     }
-}
 
-class TypeConvertion{
-    public static void main(String[] args){
-        int intNum = 4;
-        float floatNum = 9.5F;
-
-        floatNum/=intNum;
-        System.out.println("9.5除以4的商是："+floatNum);
-
-        double doubleNum1 = 12.345;
-        double doubleNum2 = 15.322;
-        int doubleNum3 = (int)(doubleNum1)+(int)doubleNum2;
-        System.out.println("强制类型转换"+doubleNum3);
-
-        char charNum = 'c';
-        int intNum1 = (int)charNum;
-        System.out.println("char转int:"+intNum1);
-
-        int intNum3 = 37;
-        double doubleNum4 = (double)intNum/3;
-        System.out.println("int类型转换为double类型："+doubleNum4);
-    }
 }
