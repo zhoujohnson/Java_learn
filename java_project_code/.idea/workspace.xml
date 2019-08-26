@@ -2,33 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d5102ec-7273-4cea-a8a2-fea1963d5611" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../java_code/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_code/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_code/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_code/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_code/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_code/java_code.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_code/out/production/java_code/com/company/Arith.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_code/out/production/java_code/com/company/Calc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_code/out/production/java_code/com/company/Calc2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_code/out/production/java_code/com/company/Calc3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_code/out/production/java_code/com/company/Calc4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_code/out/production/java_code/com/company/Compare.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_code/out/production/java_code/com/company/MyBoolean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_code/out/production/java_code/com/company/ParityCheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_code/out/production/java_code/com/company/Part.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_code/out/production/java_code/com/company/Runaddself.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_code/out/production/java_code/com/company/Val.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_code/out/production/java_code/com/company/VariableExchange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_code/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_code/src/com/company/Main1.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Example2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_project_code/com/company/Example1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_project_code/com/company/ParityCheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_project_code/com/company/TwoCompare.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_project_code/com/company/Volume.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Example1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/NineNine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/NineNine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_project_code/com/company/Cover.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_project_code/com/company/Cover1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_project_code/com/company/MyBoolean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_project_code/com/company/Part.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_project_code/com/company/TypeConvertion.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,13 +17,77 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-629997301">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="1" />
+          <entry key="java" value="4888" />
+          <entry key="txt" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="4888" />
+          <entry key="PLAIN_TEXT" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="306" column="31" lean-forward="true" selection-start-line="306" selection-start-column="31" selection-end-line="306" selection-end-column="31" />
+            <state relative-caret-position="4807">
+              <caret line="209" column="22" selection-start-line="209" selection-start-column="22" selection-end-line="209" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Example1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="276" column="34" lean-forward="true" selection-start-line="276" selection-start-column="34" selection-end-line="276" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Example2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="67" column="5" lean-forward="true" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/NineNine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -75,17 +119,23 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/company/Main1.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/src/com/company/NineNine.java" />
         <option value="$PROJECT_DIR$/src/com/company/Example1.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Example2.java" />
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="575" />
-    <option name="y" value="66" />
-    <option name="width" value="955" />
-    <option name="height" value="974" />
+    <option name="x" value="675" />
+    <option name="width" value="1225" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -107,6 +157,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,14 +180,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566540631836" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566782873631" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
@@ -152,9 +202,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Xiagao">
-    <configuration name="AddNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.AddNum" />
+  <component name="RunManager" selected="Application.ArrayRowColumnSwap">
+    <configuration name="ArrayRowColumnSwap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ArrayRowColumnSwap" />
       <module name="java_project_code" />
       <extension name="coverage">
         <pattern>
@@ -166,8 +216,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddNum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.AddNum2" />
+    <configuration name="Matrix (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Matrix" />
+      <module name="java_project_code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Matrix" />
       <module name="java_project_code" />
       <extension name="coverage">
         <pattern>
@@ -179,15 +236,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NineNine (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NineNine" />
-      <module name="java_project_code" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Xiagao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Xiagao" />
+    <configuration name="MinNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.MinNum" />
       <module name="java_project_code" />
       <extension name="coverage">
         <pattern>
@@ -199,8 +249,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="classwork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.classwork" />
+    <configuration name="Ransack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Ransack" />
       <module name="java_project_code" />
       <extension name="coverage">
         <pattern>
@@ -213,19 +263,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NineNine (1)" />
-      <item itemvalue="Application.AddNum" />
-      <item itemvalue="Application.AddNum2" />
-      <item itemvalue="Application.classwork" />
-      <item itemvalue="Application.Xiagao" />
+      <item itemvalue="Application.MinNum" />
+      <item itemvalue="Application.Matrix" />
+      <item itemvalue="Application.Matrix (1)" />
+      <item itemvalue="Application.Ransack" />
+      <item itemvalue="Application.ArrayRowColumnSwap" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Xiagao" />
-        <item itemvalue="Application.classwork" />
-        <item itemvalue="Application.AddNum2" />
-        <item itemvalue="Application.AddNum" />
-        <item itemvalue="Application.NineNine (1)" />
+        <item itemvalue="Application.ArrayRowColumnSwap" />
+        <item itemvalue="Application.Ransack" />
+        <item itemvalue="Application.Matrix" />
+        <item itemvalue="Application.Matrix (1)" />
+        <item itemvalue="Application.MinNum" />
       </list>
     </recent_temporary>
   </component>
@@ -242,17 +292,19 @@
       <workItem from="1566240569213" duration="261000" />
       <workItem from="1566310332725" duration="5463000" />
       <workItem from="1566397554270" duration="15217000" />
+      <workItem from="1566568855689" duration="600000" />
+      <workItem from="1566729709378" duration="7880000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22944000" />
+    <option name="totallyTimeSpent" value="29421000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="575" y="66" width="955" height="974" extended-state="0" />
+    <frame x="540" y="0" width="980" height="832" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19776537" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2451193" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -261,7 +313,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3607143" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31616595" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -270,7 +322,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32738096" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32761088" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -285,6 +337,9 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="相关改动" />
     <option name="LAST_COMMIT_MESSAGE" value="相关改动" />
@@ -293,22 +348,29 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/Main1.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="306" column="31" lean-forward="true" selection-start-line="306" selection-start-column="31" selection-end-line="306" selection-end-column="31" />
+        <state relative-caret-position="4807">
+          <caret line="209" column="22" selection-start-line="209" selection-start-column="22" selection-end-line="209" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/NineNine.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
-          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Example1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="280" lean-forward="true" selection-start-line="280" selection-end-line="280" />
+        <state relative-caret-position="359">
+          <caret line="276" column="34" lean-forward="true" selection-start-line="276" selection-start-column="34" selection-end-line="276" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Example2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="67" column="5" lean-forward="true" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
         </state>
       </provider>
     </entry>
