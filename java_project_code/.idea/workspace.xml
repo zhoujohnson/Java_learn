@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d5102ec-7273-4cea-a8a2-fea1963d5611" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/FormatExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/StringLearn.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_project_code/com/company/Cover.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_project_code/com/company/Cover1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_project_code/com/company/MyBoolean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_project_code/com/company/Part.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_project_code/com/company/TypeConvertion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_project_code/com/company/ArrayRowColumnSwap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_project_code/com/company/ArrayRowColumnSwap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_project_code/com/company/Matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_project_code/com/company/Matrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_project_code/com/company/Ransack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_project_code/com/company/Ransack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Example2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,31 +25,35 @@
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.5" value="5" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="4888" />
+          <entry key="java" value="10638" />
           <entry key="txt" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4888" />
+          <entry key="JAVA" value="10638" />
           <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="4" />
+          <entry key="java" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="6" />
         </counts>
       </usages-collector>
     </session>
@@ -68,17 +72,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Example1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="276" column="34" lean-forward="true" selection-start-line="276" selection-start-column="34" selection-end-line="276" selection-end-column="34" />
+            <state relative-caret-position="6348">
+              <caret line="276" column="34" selection-start-line="276" selection-start-column="34" selection-end-line="276" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Example2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4669">
+              <caret line="203" column="57" selection-start-line="203" selection-start-column="57" selection-end-line="203" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/StringLearn.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="564">
+              <caret line="138" lean-forward="true" selection-start-line="138" selection-end-line="138" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Example2.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/FormatExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="67" column="5" lean-forward="true" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+            <state relative-caret-position="445">
+              <caret line="117" lean-forward="true" selection-start-line="63" selection-end-line="117" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -123,6 +148,8 @@
         <option value="$PROJECT_DIR$/src/com/company/NineNine.java" />
         <option value="$PROJECT_DIR$/src/com/company/Example1.java" />
         <option value="$PROJECT_DIR$/src/com/company/Example2.java" />
+        <option value="$PROJECT_DIR$/src/com/company/StringLearn.java" />
+        <option value="$PROJECT_DIR$/src/com/company/FormatExample.java" />
       </list>
     </option>
   </component>
@@ -133,9 +160,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="675" />
-    <option name="width" value="1225" />
-    <option name="height" value="1040" />
+    <option name="x" value="937" />
+    <option name="width" value="1025" />
+    <option name="height" value="1103" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -186,7 +213,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566782873631" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567966649577" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
@@ -202,9 +229,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayRowColumnSwap">
-    <configuration name="ArrayRowColumnSwap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.ArrayRowColumnSwap" />
+  <component name="RunManager" selected="Application.CovertMoney">
+    <configuration name="CovertMoney" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CovertMoney" />
       <module name="java_project_code" />
       <extension name="coverage">
         <pattern>
@@ -216,15 +243,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Matrix (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Matrix" />
-      <module name="java_project_code" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Matrix" />
+    <configuration name="DateAndTime2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.DateAndTime2" />
       <module name="java_project_code" />
       <extension name="coverage">
         <pattern>
@@ -236,8 +256,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.MinNum" />
+    <configuration name="FormatExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.FormatExample" />
       <module name="java_project_code" />
       <extension name="coverage">
         <pattern>
@@ -249,8 +269,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ransack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Ransack" />
+    <configuration name="GetTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.GetTime" />
+      <module name="java_project_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringSplit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.StringSplit" />
       <module name="java_project_code" />
       <extension name="coverage">
         <pattern>
@@ -263,19 +296,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MinNum" />
-      <item itemvalue="Application.Matrix" />
-      <item itemvalue="Application.Matrix (1)" />
-      <item itemvalue="Application.Ransack" />
-      <item itemvalue="Application.ArrayRowColumnSwap" />
+      <item itemvalue="Application.StringSplit" />
+      <item itemvalue="Application.FormatExample" />
+      <item itemvalue="Application.GetTime" />
+      <item itemvalue="Application.DateAndTime2" />
+      <item itemvalue="Application.CovertMoney" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayRowColumnSwap" />
-        <item itemvalue="Application.Ransack" />
-        <item itemvalue="Application.Matrix" />
-        <item itemvalue="Application.Matrix (1)" />
-        <item itemvalue="Application.MinNum" />
+        <item itemvalue="Application.CovertMoney" />
+        <item itemvalue="Application.DateAndTime2" />
+        <item itemvalue="Application.GetTime" />
+        <item itemvalue="Application.FormatExample" />
+        <item itemvalue="Application.StringSplit" />
       </list>
     </recent_temporary>
   </component>
@@ -293,18 +326,26 @@
       <workItem from="1566310332725" duration="5463000" />
       <workItem from="1566397554270" duration="15217000" />
       <workItem from="1566568855689" duration="600000" />
-      <workItem from="1566729709378" duration="7880000" />
+      <workItem from="1566729709378" duration="8490000" />
+      <workItem from="1567175909642" duration="597000" />
+      <workItem from="1567217395570" duration="15760000" />
+      <workItem from="1567311897555" duration="8220000" />
+      <workItem from="1567612216519" duration="2331000" />
+      <workItem from="1567695580067" duration="2314000" />
+      <workItem from="1567771238531" duration="6490000" />
+      <workItem from="1567867712892" duration="1199000" />
+      <workItem from="1567916752180" duration="7798000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29421000" />
+    <option name="totallyTimeSpent" value="74740000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="540" y="0" width="980" height="832" extended-state="0" />
+    <frame x="750" y="0" width="820" height="882" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2451193" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24278215" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -313,16 +354,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31616595" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31375167" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32933334" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32761088" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.33911884" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -353,6 +394,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Example1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6348">
+          <caret line="276" column="34" selection-start-line="276" selection-start-column="34" selection-end-line="276" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Example2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4669">
+          <caret line="203" column="57" selection-start-line="203" selection-start-column="57" selection-end-line="203" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/NineNine.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -360,17 +415,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Example1.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/StringLearn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="276" column="34" lean-forward="true" selection-start-line="276" selection-start-column="34" selection-end-line="276" selection-end-column="34" />
+        <state relative-caret-position="564">
+          <caret line="138" lean-forward="true" selection-start-line="138" selection-end-line="138" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Example2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/FormatExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="67" column="5" lean-forward="true" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+        <state relative-caret-position="445">
+          <caret line="117" lean-forward="true" selection-start-line="63" selection-end-line="117" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
