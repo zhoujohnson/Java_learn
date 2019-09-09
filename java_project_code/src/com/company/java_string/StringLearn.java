@@ -1,4 +1,4 @@
-package com.company;
+package com.company.java_string;
 import java.util.StringTokenizer;
 
 //class StringLearn {
